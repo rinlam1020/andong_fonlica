@@ -1,0 +1,15 @@
+{
+    "Component Name" : "CTY Minh Lộc ( BLOG )",
+    "Component URI" : "https://toannang.com.vn",
+    "Description": "Giao diện Archive blog - CTY Minh Lộc",
+    "Version": "1.0",
+    "Author": "Lam Phan",
+    "Author URI": "https://github.com/lamdeptrai",
+    "License": "GPLv2 or later",
+    "Text Domain": "",
+    "Documentation": "https://github.com/lamdeptrai/blog",
+    "assets" : {
+        "lam-minhloc-css" : "css.css",
+        "lam-minhloc-js" : "script.js"
+    }
+}

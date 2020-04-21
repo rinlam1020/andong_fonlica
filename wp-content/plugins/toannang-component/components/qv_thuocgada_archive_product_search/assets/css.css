@@ -1,0 +1,110 @@
+#qv_thuocgada_archive_product{
+	padding-top: 75px;
+}
+.qv_thuocgada_pd{
+	font-family: 'helve';
+	font-weight: 100;
+	background: #f5f5ff;
+	padding: 0 0 45px;
+}
+.qv_thuocgada_pd .qv_thuocgada_pd_tittle{
+	background: url('../images/tittle_03.png') no-repeat top center;
+	display: block;
+	width: 228px;
+    height: 68px;
+	line-height: 24px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 600;
+	margin: -33px auto 30px;
+	font-size: 20px;
+	background-size: cover;
+	padding: 5px 19px;
+}
+.qv_thuocgada_pd .qv_thuocgada_pd_tittle span{
+	position: relative;
+	display: block;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.qv_thuocgada_pd .qv_thuocgada_pd_item a{
+	display: block;
+	background: #fff;
+	box-shadow: 0px 0px 4px rgba(0,0,0,.2);
+	margin-bottom: 20px;
+	text-decoration: none;
+}
+.qv_thuocgada_pd .qv_thuocgada_pd_deatails{
+	text-align: center;
+	padding: 5px;
+	color: #000;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: 600;
+}
+.qv_thuocgada_pd .qv_thuocgada_pd_deatails span{
+	display: block;
+}
+.qv_thuocgada_pd .qv_thuocgada_pd_deatails p{
+	text-transform: uppercase;
+}
+.qv_thuocgada_pd .qv_thuocgada_pd_price{
+	background: #000;
+	color: #fff;
+	text-align: center;
+	font-size: 18px;
+	padding: 8px;
+	line-height: 24px;
+	font-weight: 600;
+}
+.qv_thuocgada_pd .qv_thuocgada_pd_img{
+	position: relative;
+	height: 209px;
+	overflow: hidden;
+}
+.qv_thuocgada_pd .qv_thuocgada_pd_img img{
+	position: absolute;
+	left: 0;right: 0;top: 0;bottom: 0;
+	margin: auto;
+	width: 100%;
+	transform: scale(1.01);
+	transition: 0.5s;
+}
+.qv_thuocgada_pd .qv_thuocgada_pd_item a:hover{
+	box-shadow: 0px 0px 8px rgba(0,0,0,.4);
+}
+.qv_thuocgada_pd .qv_thuocgada_pd_item a:hover .qv_thuocgada_pd_price{
+	background: linear-gradient(#D19100, #F8AC00);
+}
+#qv_thuocgada_archive_product .wp-pagenavi {
+	clear: both;
+	margin: 20px 18px 50px;
+	text-align: right;
+	display: block;
+	float: right;
+}
+
+#qv_thuocgada_archive_product .wp-pagenavi a, #qv_thuocgada_archive_product .wp-pagenavi span {
+	padding: 10px 15px;
+	border: 1px solid #000;
+	color: #000;
+	font-weight: bold;
+	min-width: 35px;
+	display: inline-block;
+}
+#qv_thuocgada_archive_product .wp-pagenavi span.current {
+	background: #000;
+	color: #fff;
+	border: 1px solid #000;
+}
+@media only screen and (max-width: 1200px){
+	.qv_thuocgada_pd .qv_thuocgada_pd_img{
+		height: 170px;
+	}
+}
+@media only screen and (max-width: 800px){
+	.qv_thuocgada_pd .qv_thuocgada_pd_img{
+		height: 240px;
+	}
+}

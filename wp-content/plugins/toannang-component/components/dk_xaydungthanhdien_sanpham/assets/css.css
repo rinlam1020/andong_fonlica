@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'Conv_Roboto-Bold';
+    src: url('fonts/Roboto-Bold.eot');
+    src: local('☺'), url('fonts/Roboto-Bold.woff') format('woff'), url('fonts/Roboto-Bold.ttf') format('truetype'), url('fonts/Roboto-Bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Conv_Roboto-Regular';
+    src: url('fonts/Roboto-Regular.eot');
+    src: local('☺'), url('fonts/Roboto-Regular.woff') format('woff'), url('fonts/Roboto-Regular.ttf') format('truetype'), url('fonts/Roboto-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.sanpham-xd-thanhdien{padding-bottom: 30px;background: #EEEEEE}
+.title-xd-gioithieu {
+    text-align: center;
+    position: relative;
+    font-size: 22px;
+    color: #000000;
+    font-family: Conv_Roboto-Bold;
+}
+.title-xd-gioithieu span {
+    background: #F8AC00;
+    padding: 15px;
+    display: inline-block;
+    border-radius: 10px;
+}
+#gioithieu-xd-home-title
+{
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.thanhngang-gioithieu {
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    background: #F8AC00;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    z-index: -1;
+}
+.sp-xd-home {
+    margin-bottom: 30px;
+}
+.sp-xd-trong {
+    text-align: center;
+}
+.img-sp-xd {
+    background: white;
+    height: 180px;
+    position: relative;
+}
+.img-sp-xd img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    padding: 15px;
+}
+.nd-trong-sp-xd {
+    padding: 10px 15px;
+    background: #F8AC00;
+}
+.nd-trong-sp-xd a {
+    color: #000000;
+    font-family: Conv_Roboto-Regular;
+    font-size: 16px;
+    line-height: 22px;
+}
+@media (max-width: 520px)
+{
+    .sp-xd-home{width: 100%}
+}

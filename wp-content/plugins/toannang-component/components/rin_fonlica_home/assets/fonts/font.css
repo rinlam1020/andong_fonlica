@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Helv';
+    src: url('helveticaneue.eot');
+    src: url('helveticaneue.eot') format('embedded-opentype'),
+    url('helveticaneue.woff2') format('woff2'),
+    url('helveticaneue.woff') format('woff'),
+    url('helveticaneue.ttf') format('truetype'),
+    url('helveticaneue.svg#helveticaneue') format('svg');
+}
+@font-face {
+    font-family: 'Opens-Light';
+    src: url('OpenSans-Light.woff2') format('woff2'),
+        url('OpenSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}

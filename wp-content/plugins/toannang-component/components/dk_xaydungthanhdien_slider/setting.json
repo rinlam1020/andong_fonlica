@@ -1,0 +1,14 @@
+{
+  "Component Name": "DK Xây Dựng Thanh Điền Slider",
+  "Component URI": "https://toannang.com.vn",
+  "Description": "Gói giao diện css Xây Dựng Thanh Điền Slider",
+  "Version": "1.0",
+  "Author": "Đăng Khoa",
+  "Author URI": "",
+  "License": "GPLv2 or later",
+  "Text Domain": "",
+  "Documentation": "http://documents.toannang.xyz/",
+  "assets" : {
+            "dk_xaydungthanhdien_slider-css" : "css.css"
+        }
+}

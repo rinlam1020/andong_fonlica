@@ -1,0 +1,10 @@
+2020-04-17T20:26:55+00:00 CRITICAL Uncaught Error: Call to undefined function az_subtring() in /usr/local/var/www/andong_fonlica/wp-content/plugins/toannang-component/components/cy_thuocgada_post/cy_thuocgada_post.php:127
+Stack trace:
+#0 /usr/local/var/www/andong_fonlica/wp-content/plugins/toannang-component/components/tn-base-class.php(70): TNCP_cy_thuocgada_post->render()
+#1 /usr/local/var/www/andong_fonlica/wp-content/thesis/skins/aznet-1/layouts.php(197): TNCP_ToanNang::renderComponent('tncp_cy_thuocga...', Array)
+#2 /usr/local/var/www/andong_fonlica/wp-includes/class-wp-hook.php(286): CustomThemeThesis->{closure}('')
+#3 /usr/local/var/www/andong_fonlica/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /usr/local/var/www/andong_fonlica/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /usr/local/var/www/andong_fonlica/wp-content/thesis/skins/aznet-1/includes/function.php(44): do_action('tnc_theme_singl...')
+#6 /usr/local/var/www/andong_fonlica/wp-content/thesis/skins/aznet-1/templates/single.php(7): tnc_them
+

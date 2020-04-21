@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Conv_Roboto-Bold';
+    src: url('fonts/Roboto-Bold.eot');
+    src: local('☺'), url('fonts/Roboto-Bold.woff') format('woff'), url('fonts/Roboto-Bold.ttf') format('truetype'), url('fonts/Roboto-Bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Conv_Roboto-Light';
+    src: url('fonts/Roboto-Light.eot');
+    src: local('☺'), url('fonts/Roboto-Light.woff') format('woff'), url('fonts/Roboto-Light.ttf') format('truetype'), url('fonts/Roboto-Light.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Conv_Roboto-Regular';
+    src: url('fonts/Roboto-Regular.eot');
+    src: local('☺'), url('fonts/Roboto-Regular.woff') format('woff'), url('fonts/Roboto-Regular.ttf') format('truetype'), url('fonts/Roboto-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.gioithieu-xd-thanhdien{padding-bottom: 30px;background: #FBFBFB}
+.title-xd-gioithieu {
+    text-align: center;
+    position: relative;
+    font-size: 22px;
+    color: #000000;
+    font-family: Conv_Roboto-Bold;
+}
+.title-xd-gioithieu span {
+    background: #F8AC00;
+    padding: 15px;
+    display: inline-block;
+    border-radius: 10px;
+}
+#gioithieu-xd-home-title
+{
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.thanhngang-gioithieu {
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    background: #F8AC00;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    z-index: -1;
+}
+.gioithieu-xd-home-noidung-1
+{
+	position: relative;
+	padding-bottom: 55px;
+}
+.gioithieu-xd-home-noidung-1 p {
+    font-size: 16px;
+    font-family: Conv_Roboto-Light;
+    line-height: 30px;
+    text-align: justify;
+    color: #474747;
+}
+.btn-xemthem-xd a {
+    background: #F8AC00;
+    display: inline-block;
+    padding: 12px 20px;
+    font-size: 14px;
+    color: #000000;
+    border:solid 1px #F8AC00;
+    font-family: Conv_Roboto-Regular;
+}
+.btn-xemthem-xd {
+    position: absolute;
+    bottom: 0;
+    right: 15px;
+}
+.btn-xemthem-xd a:hover{color: #F8AC00;background: #fff;border:solid; 1px #F8AC00}
+.img-gioithieu {
+    height: 310px;
+    position: relative;
+    width: 100%;
+}
+.img-gt-xd {
+    position: absolute;
+    width: 335px;
+    height: 220px;
+    text-align: center;
+}
+.img-gt-xd img{width: 100%;height: 100%;max-height: 100%;max-width: 100%;margin:auto;box-shadow: 0 0 3px #F8AC00}
+.img-gt-1{top: 0;left: 0;z-index: 10}
+.img-gt-2{bottom: 0;right: 0;z-index: 9}
+.img-gioithieu{margin-top: 10px}
+.img-gioithieu .img-gt-xd:hover{z-index: 15}
+@media (max-width: 350px)
+{
+    .img-gt-xd{width: 100%;max-width: 335px;}
+}

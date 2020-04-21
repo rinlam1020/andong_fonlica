@@ -1,0 +1,5 @@
+.slider-xd-thanhdien{overflow: hidden;position: relative;}
+ol.flex-control-nav.flex-control-paging{bottom: 10px}
+.flex-control-paging li a.flex-active{background: #F8AC00!important}
+.flex-control-paging li a{width: 15px!important;height: 15px!important}
+.metaslider .flexslider{margin: 0!important}

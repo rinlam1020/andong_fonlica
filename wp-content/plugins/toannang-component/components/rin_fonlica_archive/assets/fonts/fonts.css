@@ -1,0 +1,143 @@
+@font-face {
+    font-family: 'UTM Avo';
+    src: url('UTMAvo.woff2') format('woff2'),
+    url('UTMAvo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UTM Avo';
+    src: url('UTMAvoBold.woff2') format('woff2'),
+    url('UTMAvoBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UTM Avo';
+    src: url('UTMAvo-Italic.woff2') format('woff2'),
+    url('UTMAvo-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'UTM Avo';
+    src: url('UTMAvo-BoldItalic.woff2') format('woff2'),
+    url('UTMAvo-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'A-Demi';
+    src: url('AvantGarde-Demi.woff2') format('woff2'),
+    url('AvantGarde-Demi.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Av';
+    src: url('avantg.eot');
+    src: local('☺'), url('avantg.woff') format('woff'), url('avantg.ttf') format('truetype'), url('avantg.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Myr-Reg';
+    src: url('MyriadPro-Regular.eot');
+    src: local('☺'), url('MyriadPro-Regular.woff') format('woff'), url('MyriadPro-Regular.ttf') format('truetype'), url('MyriadPro-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'A-Demi-Reg';
+    src: url('AvantGarde-Demi.woff2') format('woff2'),
+    url('AvantGarde-Demi.woff') format('woff');
+    font-weight: normal;
+    font-style: oblique;
+}
+@font-face {
+    font-family: 'Open_Sans-Bold';
+    src: url('OpenSans-Bold.woff2') format('woff2'),
+    url('OpenSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open_Sans';
+    src: url('OpenSans-Regular.woff2') format('woff2'),
+    url('OpenSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Open_Sans-SemiBold';
+    src: url('OpenSans-SemiBold.woff2') format('woff2'),
+    url('OpenSans-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UTM-Bold';
+    src: url('AvantGarde-Demi.woff2') format('woff2'),
+    url('AvantGarde-Demi.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'UTM-Italic-Nor';
+    src: url('UTMHelve-Italic.woff2') format('woff2'),
+    url('UTMHelve-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'UTM-Italic-Bold';
+    src: url('UTMHelve-BoldItalic.woff2') format('woff2'),
+    url('UTMHelve-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'UTM-Bold';
+    src: url('UTMHelveBold.woff2') format('woff2'),
+    url('UTMHelveBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UTM-Reg';
+    src: url('UTMHelve.woff2') format('woff2'),
+    url('UTMHelve.woff') format('woff');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Reg';
+    src:url('Roboto-Regular.ttf');
+}
+@font-face {
+    font-family: 'Roboto';
+    src:url('Roboto-Bold.ttf');
+    font-weight: 600;
+
+}
+@font-face {
+    font-family: 'Roboto-Med';
+    src:url('Roboto-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Roboto-Light';
+    src:url('Roboto-Light.ttf');
+    font-weight: 300;
+
+}

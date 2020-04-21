@@ -1,0 +1,287 @@
+Easy WP SMTP debug log file
+
+CLIENT -> SERVER: EHLO toannang-wp.lev
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: c210cC50b2FubmFuZ0BnbWFpbC5jb20=
+CLIENT -> SERVER: YWtqdmZkcnN6dnZsaWFrdg==
+CLIENT -> SERVER: MAIL FROM:<smtp.toannang@gmail.com>
+CLIENT -> SERVER: RCPT TO:<hoangcuong.toannang@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 28 Aug 2018 07:34:01 +0000
+CLIENT -> SERVER: To: hoangcuong.toannang@gmail.com
+CLIENT -> SERVER: From: WordPress <smtp.toannang@gmail.com>
+CLIENT -> SERVER: Subject: =?UTF-8?B?W1RoaeG6v3Qga+G6vyB3ZWJzaXRlIGNodXnDqm4gbmdoaeG7h3AgVG/DoA==?=
+CLIENT -> SERVER:  =?UTF-8?B?biBOxINuZ10gxJDhu4thIENo4buJIFRoxrAgxJBp4buHbiBU4butIFF14bqj?=
+CLIENT -> SERVER:  =?UTF-8?B?biBUcuG7iyBN4bubaQ==?=
+CLIENT -> SERVER: Message-ID: <9e0a719c0f03069f8dc4a2d316ffac3f@toannang-wp.lev>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Xin chào admintn,
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Bạn vừa yêu cầu thay đổi địa chỉ email quản trị trên trang của bạn.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Nếu điều này là đúng, hãy bấm vào đường dẫn sau đây để thay đổi:
+CLIENT -> SERVER: http://toannang-wp.lev/wp-admin/options.php?adminhash=e6846a6115ea4ba804318b48b9c00857
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Bạn có thể bỏ qua và xóa email này nếu bạn không muốn thực hiện 
+CLIENT -> SERVER:  hành động này.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Email này được gửi tới hoangcuong.toannang@gmail.com
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Trân trọng, 
+CLIENT -> SERVER: Mọi thông tin khác tại Thiết kế website chuyên nghiệp Toàn Năng
+CLIENT -> SERVER: http://toannang-wp.lev
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO toannang-wp.lev
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: c210cC50b2FubmFuZ0BnbWFpbC5jb20=
+CLIENT -> SERVER: YWtqdmZkcnN6dnZsaWFrdg==
+CLIENT -> SERVER: MAIL FROM:<smtp.toannang@gmail.com>
+CLIENT -> SERVER: RCPT TO:<thanhlam.toannang@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 28 Aug 2018 07:34:47 +0000
+CLIENT -> SERVER: To: thanhlam.toannang@gmail.com
+CLIENT -> SERVER: From: WordPress <smtp.toannang@gmail.com>
+CLIENT -> SERVER: Subject: =?UTF-8?Q?[Thi=E1=BA=BFt_k=E1=BA=BF_website_chuy=C3=AAn_nghi=E1=BB=87p_To?=
+CLIENT -> SERVER:  =?UTF-8?Q?=C3=A0n_N=C4=83ng]_Th=C3=B4ng_b=C3=A1o_v=E1=BB=81_thay_=C4=91?=
+CLIENT -> SERVER:  =?UTF-8?Q?=E1=BB=95i_email_qu=E1=BA=A3n_tr=E1=BB=8B?=
+CLIENT -> SERVER: Message-ID: <58d116c4f3635af5ff1dd1f550605fcd@toannang-wp.lev>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Xin chào,
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Đây là thông báo về việc email quản trị đã được cập nhật trên website  Thiết kế website chuyên nghiệp Toàn Năng.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Địa chỉ email mới là hoangcuong.toannang@gmail.com.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Đây là xác nhận được gửi tới địa chỉ email cũ thanhlam.toannang@gmail.com
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Thiết kế website chuyên nghiệp Toàn Năng
+CLIENT -> SERVER: http://toannang-wp.lev
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO andong_fonlica.abc
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: c210cC50b2FubmFuZ0BnbWFpbC5jb20=
+CLIENT -> SERVER: YWtqdmZkcnN6dnZsaWFrdg==
+CLIENT -> SERVER: MAIL FROM:<smtp.toannang@gmail.com>
+CLIENT -> SERVER: RCPT TO:<rin.lam.1020@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 17 Apr 2020 13:15:17 +0000
+CLIENT -> SERVER: To: rin.lam.1020@gmail.com
+CLIENT -> SERVER: From: =?UTF-8?Q?Thi=E1=BA=BFt_k=E1=BA=BF_website_chuy=C3=AAn_nghi=E1=BB=87p_To?=
+CLIENT -> SERVER:  =?UTF-8?Q?=C3=A0n_N=C4=83ng?= <smtp.toannang@gmail.com>
+CLIENT -> SERVER: Subject: =?UTF-8?B?xJDhurd0IGzhuqFpIG3huq10IGto4bqpdSBjaG8gWMOCWSBE4buwTkcgVEhB?=
+CLIENT -> SERVER:  =?UTF-8?B?TkggxJBJ4buATg==?=
+CLIENT -> SERVER: Message-ID: <4ef2d4fcee7f9a0fe0ce11783f933b5c@andong_fonlica.abc>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <!DOCTYPE html>
+CLIENT -> SERVER: <html lang="vi">
+CLIENT -> SERVER: 	<head>
+CLIENT -> SERVER: 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+CLIENT -> SERVER: 		<title>XÂY DỰNG THANH ĐIỀN</title>
+CLIENT -> SERVER: 	</head>
+CLIENT -> SERVER: 	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+CLIENT -> SERVER: 		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">
+CLIENT -> SERVER: 			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+CLIENT -> SERVER: 				<tr>
+CLIENT -> SERVER: 					<td align="center" valign="top">
+CLIENT -> SERVER: 						<div id="template_header_image">
+CLIENT -> SERVER: 													</div>
+CLIENT -> SERVER: 						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">
+CLIENT -> SERVER: 							<tr>
+CLIENT -> SERVER: 								<td align="center" valign="top">
+CLIENT -> SERVER: 									<!-- Header -->
+CLIENT -> SERVER: 									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #4b57fa; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'>
+CLIENT -> SERVER: 										<tr>
+CLIENT -> SERVER: 											<td id="header_wrapper" style="padding: 36px 48px; display: block;">
+CLIENT -> SERVER: 												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #6f79fb;'>Hướng dẫn đặt lại mật khẩu</h1>
+CLIENT -> SERVER: 											</td>
+CLIENT -> SERVER: 										</tr>
+CLIENT -> SERVER: 									</table>
+CLIENT -> SERVER: 									<!-- End Header -->
+CLIENT -> SERVER: 								</td>
+CLIENT -> SERVER: 							</tr>
+CLIENT -> SERVER: 							<tr>
+CLIENT -> SERVER: 								<td align="center" valign="top">
+CLIENT -> SERVER: 									<!-- Body -->
+CLIENT -> SERVER: 									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+CLIENT -> SERVER: 										<tr>
+CLIENT -> SERVER: 											<td valign="top" id="body_content" style="background-color: #ffffff;">
+CLIENT -> SERVER: 												<!-- Content -->
+CLIENT -> SERVER: 												<table border="0" cellpadding="20" cellspacing="0" width="100%">
+CLIENT -> SERVER: 													<tr>
+CLIENT -> SERVER: 														<td valign="top" style="padding: 48px 48px 0;">
+CLIENT -> SERVER: 															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Một người nào đó đã yêu cầu khôi phục lại mật khẩu của tài khoản :</p>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Tên đăng nhập: rin</p>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Nếu đây là một sai sót, vui lòng bỏ qua email này và sẽ không có chuyện gì xảy ra.</p>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Để đặt lại mật khẩu, bạn vui lòng truy cập theo địa chỉ sau:</p>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">
+CLIENT -> SERVER: 	<a class="link" href="http://andong_fonlica.abc/tai-khoan/lost-password/?key=dx2pFfmjddiTGGap92Jv&amp;id=4" style="color: #4b57fa; font-weight: normal; text-decoration: underline;">
+CLIENT -> SERVER: 			Ấn vào đây để đặt lại mật khẩu</a>
+CLIENT -> SERVER: </p>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;"></p>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 															</div>
+CLIENT -> SERVER: 														</td>
+CLIENT -> SERVER: 													</tr>
+CLIENT -> SERVER: 												</table>
+CLIENT -> SERVER: 												<!-- End Content -->
+CLIENT -> SERVER: 											</td>
+CLIENT -> SERVER: 										</tr>
+CLIENT -> SERVER: 									</table>
+CLIENT -> SERVER: 									<!-- End Body -->
+CLIENT -> SERVER: 								</td>
+CLIENT -> SERVER: 							</tr>
+CLIENT -> SERVER: 							<tr>
+CLIENT -> SERVER: 								<td align="center" valign="top">
+CLIENT -> SERVER: 									<!-- Footer -->
+CLIENT -> SERVER: 									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+CLIENT -> SERVER: 										<tr>
+CLIENT -> SERVER: 											<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+CLIENT -> SERVER: 												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+CLIENT -> SERVER: 													<tr>
+CLIENT -> SERVER: 														<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #939afc; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">
+CLIENT -> SERVER: 															<p>XÂY DỰNG THANH ĐIỀN</p>
+CLIENT -> SERVER: 														</td>
+CLIENT -> SERVER: 													</tr>
+CLIENT -> SERVER: 												</table>
+CLIENT -> SERVER: 											</td>
+CLIENT -> SERVER: 										</tr>
+CLIENT -> SERVER: 									</table>
+CLIENT -> SERVER: 									<!-- End Footer -->
+CLIENT -> SERVER: 								</td>
+CLIENT -> SERVER: 							</tr>
+CLIENT -> SERVER: 						</table>
+CLIENT -> SERVER: 					</td>
+CLIENT -> SERVER: 				</tr>
+CLIENT -> SERVER: 			</table>
+CLIENT -> SERVER: 		</div>
+CLIENT -> SERVER: 	</body>
+CLIENT -> SERVER: </html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO andong_fonlica.abc
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: c210cC50b2FubmFuZ0BnbWFpbC5jb20=
+CLIENT -> SERVER: YWtqdmZkcnN6dnZsaWFrdg==
+CLIENT -> SERVER: MAIL FROM:<smtp.toannang@gmail.com>
+CLIENT -> SERVER: RCPT TO:<rin.lam.1020@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 17 Apr 2020 13:21:16 +0000
+CLIENT -> SERVER: To: rin.lam.1020@gmail.com
+CLIENT -> SERVER: From: =?UTF-8?Q?Thi=E1=BA=BFt_k=E1=BA=BF_website_chuy=C3=AAn_nghi=E1=BB=87p_To?=
+CLIENT -> SERVER:  =?UTF-8?Q?=C3=A0n_N=C4=83ng?= <smtp.toannang@gmail.com>
+CLIENT -> SERVER: Subject: =?UTF-8?B?xJDhurd0IGzhuqFpIG3huq10IGto4bqpdSBjaG8gWMOCWSBE4buwTkcgVEhB?=
+CLIENT -> SERVER:  =?UTF-8?B?TkggxJBJ4buATg==?=
+CLIENT -> SERVER: Message-ID: <80d965c7416ab120dad8fb9a7ca5e48e@andong_fonlica.abc>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <!DOCTYPE html>
+CLIENT -> SERVER: <html lang="vi">
+CLIENT -> SERVER: 	<head>
+CLIENT -> SERVER: 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+CLIENT -> SERVER: 		<title>XÂY DỰNG THANH ĐIỀN</title>
+CLIENT -> SERVER: 	</head>
+CLIENT -> SERVER: 	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+CLIENT -> SERVER: 		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">
+CLIENT -> SERVER: 			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+CLIENT -> SERVER: 				<tr>
+CLIENT -> SERVER: 					<td align="center" valign="top">
+CLIENT -> SERVER: 						<div id="template_header_image">
+CLIENT -> SERVER: 													</div>
+CLIENT -> SERVER: 						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">
+CLIENT -> SERVER: 							<tr>
+CLIENT -> SERVER: 								<td align="center" valign="top">
+CLIENT -> SERVER: 									<!-- Header -->
+CLIENT -> SERVER: 									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #4b57fa; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'>
+CLIENT -> SERVER: 										<tr>
+CLIENT -> SERVER: 											<td id="header_wrapper" style="padding: 36px 48px; display: block;">
+CLIENT -> SERVER: 												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #6f79fb;'>Hướng dẫn đặt lại mật khẩu</h1>
+CLIENT -> SERVER: 											</td>
+CLIENT -> SERVER: 										</tr>
+CLIENT -> SERVER: 									</table>
+CLIENT -> SERVER: 									<!-- End Header -->
+CLIENT -> SERVER: 								</td>
+CLIENT -> SERVER: 							</tr>
+CLIENT -> SERVER: 							<tr>
+CLIENT -> SERVER: 								<td align="center" valign="top">
+CLIENT -> SERVER: 									<!-- Body -->
+CLIENT -> SERVER: 									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+CLIENT -> SERVER: 										<tr>
+CLIENT -> SERVER: 											<td valign="top" id="body_content" style="background-color: #ffffff;">
+CLIENT -> SERVER: 												<!-- Content -->
+CLIENT -> SERVER: 												<table border="0" cellpadding="20" cellspacing="0" width="100%">
+CLIENT -> SERVER: 													<tr>
+CLIENT -> SERVER: 														<td valign="top" style="padding: 48px 48px 0;">
+CLIENT -> SERVER: 															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Một người nào đó đã yêu cầu khôi phục lại mật khẩu của tài khoản :</p>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Tên đăng nhập: admin</p>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Nếu đây là một sai sót, vui lòng bỏ qua email này và sẽ không có chuyện gì xảy ra.</p>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Để đặt lại mật khẩu, bạn vui lòng truy cập theo địa chỉ sau:</p>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">
+CLIENT -> SERVER: 	<a class="link" href="http://andong_fonlica.abc/tai-khoan/lost-password/?key=WtGgM2Ew4FSk0kbjuTYL&amp;id=1" style="color: #4b57fa; font-weight: normal; text-decoration: underline;">
+CLIENT -> SERVER: 			Ấn vào đây để đặt lại mật khẩu</a>
+CLIENT -> SERVER: </p>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;"></p>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 															</div>
+CLIENT -> SERVER: 														</td>
+CLIENT -> SERVER: 													</tr>
+CLIENT -> SERVER: 												</table>
+CLIENT -> SERVER: 												<!-- End Content -->
+CLIENT -> SERVER: 											</td>
+CLIENT -> SERVER: 										</tr>
+CLIENT -> SERVER: 									</table>
+CLIENT -> SERVER: 									<!-- End Body -->
+CLIENT -> SERVER: 								</td>
+CLIENT -> SERVER: 							</tr>
+CLIENT -> SERVER: 							<tr>
+CLIENT -> SERVER: 								<td align="center" valign="top">
+CLIENT -> SERVER: 									<!-- Footer -->
+CLIENT -> SERVER: 									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+CLIENT -> SERVER: 										<tr>
+CLIENT -> SERVER: 											<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+CLIENT -> SERVER: 												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+CLIENT -> SERVER: 													<tr>
+CLIENT -> SERVER: 														<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #939afc; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">
+CLIENT -> SERVER: 															<p>XÂY DỰNG THANH ĐIỀN</p>
+CLIENT -> SERVER: 														</td>
+CLIENT -> SERVER: 													</tr>
+CLIENT -> SERVER: 												</table>
+CLIENT -> SERVER: 											</td>
+CLIENT -> SERVER: 										</tr>
+CLIENT -> SERVER: 									</table>
+CLIENT -> SERVER: 									<!-- End Footer -->
+CLIENT -> SERVER: 								</td>
+CLIENT -> SERVER: 							</tr>
+CLIENT -> SERVER: 						</table>
+CLIENT -> SERVER: 					</td>
+CLIENT -> SERVER: 				</tr>
+CLIENT -> SERVER: 			</table>
+CLIENT -> SERVER: 		</div>
+CLIENT -> SERVER: 	</body>
+CLIENT -> SERVER: </html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
